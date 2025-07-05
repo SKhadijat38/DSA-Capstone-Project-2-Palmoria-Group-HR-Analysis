@@ -1,13 +1,13 @@
 # DSA-Capstone-Project-2-Palmoria-Group-HR-Analysis
 ## Project Overview
 
-This project presents an HR Data analysis for Palmoria Group, a manufacturing company in Nigria, aimed at identifying gender-related disparities across departments and regions. The analysis explores gender distribution, performance rtings, salary structure, and compliance with labour regulations, including a new $90,000 minimum wage policy. Key deliverables include a cleand dataset, insightful visualizations, and actionable recommendations to support data driven HR decisioons and promote workplace equity.
+This capstone project presents an HR Data analysis for Palmoria Group, a manufacturing company in Nigria, aimed at identifying gender-related disparities across departments and regions. The analysis explores gender distribution, performance rtings, salary structure, and compliance with labour regulations, including a new $90,000 minimum wage policy. Key deliverables include a cleand dataset, insightful visualizations, and actionable recommendations to support data driven HR decisioons and promote workplace equity.
 
 ## Data Type and Source
 The primary source of data used is Palmoria Group emp data083200.csv and Palmoria Group Bonus_083311. xlsx and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
 
 ## Data Tool Used
--MS Power Bi for Data Cleaning [Download Here] Amazon.case.study_083209.-.[Palmoria Group emp-data_083200.csv](https://github.com/user-attachments/files/21076010/Palmoria.Group.emp-data_083200.csv)
+-MS Power Bi for Data Cleaning [Download Here] [Palmoria Group emp-data_083200.csv](https://github.com/user-attachments/files/21076010/Palmoria.Group.emp-data_083200.csv)
 Copy.2.xlsx)
 
   -For Data Collection
@@ -16,7 +16,9 @@ Copy.2.xlsx)
 -MS Power Point (for presentation)
 
 ## Dataset
-  * Source: DataPalmoria Group
+  * Source: Palmoria Group [Palmoria.zip](https://github.com/user-attachments/files/21078555/Palmoria.zip)
+
+Upload Power BI Report (Zipped PBIX) 
   * Rows: 964
   * Field: 9 Columns (After Data Cleaning)
 
@@ -96,7 +98,7 @@ Copy.2.xlsx)
    
    3. Higher Attrition rate among female employees unlike their counterparts. Company should review work-life balance and maternity/paternity support policies. Provide flexible working arrangement, also launch employee experience surveys to understand retention gaps
 
-   4. Adjust coopensation structures to refelct ole lues and industr standards
+   4. Adjust coopensation structures to reflect role rules and industry standards
    5. Implement transparent pay policies
    6. Balance teams with both experienced and younger employees.
    7. Conduct workforce realignment to match strategic objectives.
@@ -105,7 +107,7 @@ Copy.2.xlsx)
 ## Outputs ##
 [POWER BI DASHBOARD]  
 
-
+[Palmora-2 Report.pdf](https://github.com/user-attachments/files/21078523/Palmora-2.Report.pdf)
 
 Author: Sanni Khadijat Ozohu
 
