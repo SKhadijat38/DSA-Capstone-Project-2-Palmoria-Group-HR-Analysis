@@ -46,3 +46,41 @@ Copy.2.xlsx)
    - Pie Charts
    - Scatter plots
    - Count Cards
+
+## Findings ##
+### Answers to the Requested Analysis Questions
+
+1. Thee gender distribution in the organization distil to regions 
+
+   *Kaduna - 361 Employees (Male= 182 ; Female= 179)- 38.16%
+
+   *Lagos - 250 Employees (Male= 124 ; Female= 126)- 26.43%
+
+   *Abuja - 335 Employees (Male= 159 ; Female= 176)- 35.41%
+
+1b. By Department
+   Legal has the highest number of Male Employees while services has the highest number of female employees. Check the worked on document for more details.
+
+2. Ratings Insights Based on Gender
+   * Average Rating- (Male= 212 ; Female= 208)
+   * Good- (Male= 82 ; Female= 98)
+   * Not Rated- (Male= 34 ; Female= 37)
+   * Poor- (Male= 70 ; Female= 61)
+   * Very Poor- (Male= 31 ; Female= 23)
+
+3. Rating Distribution by Gender
+   *More deatils in the worked csv
+
+4. Salary Structure and Gender Pay Gap
+   *Averge Salary by Department and Region
+    *Abuja: A.S- (Male= >70K ; Female= >73K) C.D- (Male= 159 ; Female= 176)
+    *Kaduna: A.S- (Male= >74K ; Female= >72K) C.D- (Male= 182 ; Female= 179)
+    *Lagos: A.S- (Male= >76K ; Female= >74K) C.D- (Male= 124 ; Female= 126)
+
+5. Salary Band by Each Region: Moree details on the visuals
+
+6. Number of Employees earning below Minimum Salary- 654
+
+7. By Location; Kaduna; 250, Abuja; 238, Lagos; 166
+
+
