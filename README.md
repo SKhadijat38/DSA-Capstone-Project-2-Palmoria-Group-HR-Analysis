@@ -22,25 +22,27 @@ Copy.2.xlsx)
 
 ## Data Analysis
 1. ** Data Cleaning**
-   - Handled Missing Values by giving it a generic numeric figure
+   - Handled Missing Values by giving it a generic gender status
    - Removing Duplicates
    - Standardizing Text with the use of CLEAN, PROPER, TRIM Functions
    - Correcting Data Types
    - Fixing inconsistent Format
    - Splitting Columns
    - Filtering Irrelevant Data
-   - Creating Calculated Columns such as; Average Discount by %, Hgh Discount, Discount Bucket, Price Bucket, Potentiaal Revenue, Average Rating etc.
-   - Group and Summarize using the Excel Pivot Tables to Analyze
+   - Creating Calculated Columns/Measures such as; Average Rating, Gender Count, Rating Count, Salary Count, Average Salary, Employees below Minimum Threshold Salary  etc.
+   - Group and Summarize using the Power Bi visuals to Analyze
 
 2. ** Exploratory Data Analysis **
-   - Calculations of Max, Min, Average
+   - Calculations of Count, Average, etc.
    - Distributions of key variables by visualizing sales, prices, ratings, dicounts, etc.
-   - Categorical Data Analysis by calculating count frequency of each category, group sales by category
-   - Ratng Distribution
+   - Categorical Data Analysis by calculating count frequency of/by each department and regions. 
+   - Ratng Distributtion by some columns, 
    - Correlation and Relationships
-   - Drill down with pivot tables to answer questions.
+   - Drill down with power bi visuals to answer questions.
 
 3. ** Visualization **
    - Bar Charts
    - Line Charts
    - Pie Charts
+   - Scatter plots
+   - Count Cards
