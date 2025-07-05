@@ -83,4 +83,29 @@ Copy.2.xlsx)
 
 7. By Location; Kaduna; 250, Abuja; 238, Lagos; 166
 
+## Recommendations ##
+   1. One gender is underepresented across the organization and in specific departments, males dominatein technical or managerial departmental roles in order to improve on this; The organization needs to embark on;
+    - promotion of inclusive recruitment practices to close gender gap
+    - set gender diversity targets (especially for leadership or technical roles, Create employer branding tht appeals to diverse talent
+    - Encourage women into STEM or management pathways
+   
+   2. Gender Pay Gap- Males earning more than females in the same similar roles, to address this, The organization needs to:
+      -Conduct a gender pay equity audit
+      - Implement transparents pay band
+      - Establish regular salary reviews and correction plans.
+   
+   3. Higher Attrition rate among female employees unlike their counterparts. Company should review work-life balance and maternity/paternity support policies. Provide flexible working arrangement, also launch employee experience surveys to understand retention gaps
+
+   4. Adjust coopensation structures to refelct ole lues and industr standards
+   5. Implement transparent pay policies
+   6. Balance teams with both experienced and younger employees.
+   7. Conduct workforce realignment to match strategic objectives.
+   8. Provide career growth patths and internal mobilty progrms.
+
+## Outputs ##
+[POWER BI DASHBOARD]  
+
+
+
+Author: Sanni Khadijat Ozohu
 
